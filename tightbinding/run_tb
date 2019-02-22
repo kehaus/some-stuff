@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+""" 
+Contains tight binding examples
+
+
+"""
+__author__ = "kha"
+__version__ = "0.0.1"
+
+
+from fermi_3d import *
+
+
+
+
+
